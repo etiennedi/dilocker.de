@@ -25,7 +25,7 @@ a {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  background-color: #282c34;
+  background-color: #454555;
   padding: 35px 20px;
 }
 
@@ -47,6 +47,7 @@ a {
 
 .content-intro {
   background-color: #3a4c98;
+  background-image: linear-gradient(to right top, #3a4c98, #3458a4, #2c64ae, #226fb9, #167bc2, #0084c4, #008dc4, #0095c4, #249bbc, #40a1b3, #59a5ab, #6fa9a6);
   padding-top: 20px;
   color: #ffffff;
   padding-bottom: 20px;
@@ -73,6 +74,7 @@ a {
 
 .content h2 {
   margin-top: 80px;
+  color: #6FA9A6
 }
 
 .intro-description {
