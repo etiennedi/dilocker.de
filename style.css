@@ -52,6 +52,11 @@ a {
   padding-bottom: 20px;
 }
 
+.content-intro a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
 .content-intro-wrapper {
   max-width: 960px;
   margin-left: auto;
@@ -84,6 +89,19 @@ a {
   padding:30px;
   color: #ffffff;
   margin-top: 50px;
+  display:flex;
+  justify-content: space-between;
+}
+
+.footer p {
+  display:inline-block;
+  margin:0;
+  padding:0;
+}
+
+.footer p a {
+  color: #ffffff;
+  text-decoration: underline;
 }
 
 .side-by-side-container {
